@@ -3,4 +3,4 @@
 Course Name: Geospatial Data Analysis
 
 ### Instructor:
-[Meem Arafat Manab](https://joyantamondal.com/)
+[Meem Arafat Manab](https://www.bracu.ac.bd/about/people/meem-arafat-manab)
